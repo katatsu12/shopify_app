@@ -12,6 +12,7 @@ gem 'sass-rails', '>= 6'
 gem 'shopify_api'
 gem 'shopify_app', '~> 13.4'
 gem 'turbolinks', '~> 5'
+gem 'tzinfo-data', platforms: %i[mingw mswin x64_mingw jruby]
 gem 'webpacker', '~> 4.0'
 
 group :development, :test do
@@ -26,5 +27,3 @@ group :development do
   gem 'spring'
   gem 'spring-watcher-listen', '~> 2.0.0'
 end
-
-gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
