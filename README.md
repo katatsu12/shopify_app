@@ -1,1 +1,1 @@
-Test Shopify app integration.
+Test Shopify app integration. No AI
